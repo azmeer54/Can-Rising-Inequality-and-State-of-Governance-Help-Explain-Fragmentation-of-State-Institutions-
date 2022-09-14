@@ -2,7 +2,7 @@ set more off
 clear all 
 
 // Importing the Dataset 
-use "https://github.com/azmeer54/Can_Rising_Inequality_and_State_of_Governance_Help_Explain_Fragmentation_of_State_Institutions/blob/main/factionalized_institutes_data.dta?raw=true"
+use "https://github.com/azmeer54/Can-Rising-Inequality-and-State-of-Governance-Help-Explain-Fragmentation-of-State-Institutions-/blob/main/factionalized_institutes_data.dta?raw=true"
 
 //Starting Texdoc 
 texdoc init "ElitePowerPaper.tex", force cmdstrip nooutput replace
